@@ -4,6 +4,7 @@ public class Practice {
 
     }
 
-
+    public static String main() {
+        System.out.println("message");
     }
 }
